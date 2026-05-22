@@ -2,7 +2,7 @@
 
 A repository showcasing 30 days of different Python projects to build discipline, accountability, and Python coding skills through one structured problem per day, each day with a new challenge and difficulty progresses weekly. The project details can be found in the `projects.pdf` file in the repository.
 
-## Project Details
+## 📝 Project Details
 The `projects.pdf` file contains the project descriptions, requirements, and solutions for each day. The projects are designed to test and improve Python skills in various areas, such as:
 
 * Data structures and algorithms
