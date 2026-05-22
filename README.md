@@ -9,7 +9,7 @@ The `projects.pdf` file contains the project descriptions, requirements, and sol
 * File input/output and persistence
 * Object-Oriented Programming (OOP) concepts
 
-## Repository Structure
+## 🗂️ Repository Structure
 The repository is structured as follows:
 
 * `projects.pdf`: Contains the project details and descriptions.
